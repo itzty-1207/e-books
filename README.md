@@ -58,11 +58,11 @@
 
 ### JavaScript
 
+JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[链接](https://developer.mozilla.org/zh-CN)
+
 JavaScript 权威指南(第 6 版).pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/10_iKSYm820yD0gR8dptscw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hok3
 
-21 天学通 c++ 第 7 版.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Pv45msRWe0sCurOM9RR9uQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：qvdj
-
-C++ Primer Plus（第 6 版）中文版.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1EVlg9WH-6kJjmjjTjaty0Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：wsfu
+JavaScript 高级程序设计(第 3 版).pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1YRNG-U1rY6UrefrkgnojYw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：2bsd
 
 ## 免责声明
 
