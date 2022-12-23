@@ -58,7 +58,7 @@
 
 ### JavaScript
 
-JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[链接](https://developer.mozilla.org/zh-CN)
+JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
 
 JavaScript 权威指南(第 6 版).pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/10_iKSYm820yD0gR8dptscw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：hok3
 
