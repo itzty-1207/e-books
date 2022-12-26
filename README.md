@@ -11,53 +11,26 @@
 ### 书籍共有 40 多个种类
 
 计算机类电子书学习，编程电子书整理下载，包括
-[Css](https://github.com/itzty-1207/e-booksf###javascript)，
-[**JavaScript**](https://github.com/itzty-1207/e-books###javascript)，
-[计算机网络](https://github.com/itzty-1207/e-books###javascript)，
-[Java](https://github.com/itzty-1207/e-books###java)，
-[jvm](https://github.com/itzty-1207/e-books###jvm)，
-[Python](https://github.com/itzty-1207/e-books###python)，
-[Nginx](https://github.com/itzty-1207/e-books###nginx)，
-[C](https://github.com/itzty-1207/e-books###C)，
-[C#](https://github.com/itzty-1207/e-books###C#)，
-[C++](https://github.com/itzty-1207/e-books###C++)，
-[数据库类](https://github.com/itzty-1207/e-books###数据库类)，
-[数据结构](https://github.com/itzty-1207/e-books###数据结构)，
-[**Docker**](https://github.com/itzty-1207/e-books###docker)，
-[Elasticsearch](https://github.com/itzty-1207/e-books###elasticsearch)，
-[Git](https://github.com/itzty-1207/e-books###git)，
-[Hadoop](https://github.com/itzty-1207/e-books###hadoop)，
-[HeadFirst](https://github.com/itzty-1207/e-books###headFirst)，
-[Kafka](https://github.com/itzty-1207/e-books###kafka)，
-[**Linux**](https://github.com/itzty-1207/e-books###linux)，
-[Maven](https://github.com/itzty-1207/e-books###maven)，
-[MongoDB](https://github.com/itzty-1207/e-books###mongodb)，
-[MyBatis](https://github.com/itzty-1207/e-books###mybatis)，
-[**Netty**](https://github.com/itzty-1207/e-books###netty)，
-[**RabbitMQ**](https://github.com/itzty-1207/e-books###rabbitmq)，
-[Redis](https://github.com/itzty-1207/e-books###redis)，
-[Scala](https://github.com/itzty-1207/e-books###scala)，
-[Solr](https://github.com/itzty-1207/e-books###solr)，
-[Spark](https://github.com/itzty-1207/e-books###spark)，
-[**Spring**](https://github.com/itzty-1207/e-books###spring)，
-[SpringBoot](https://github.com/itzty-1207/e-books###springboot)，
-[**SpringCloud**](https://github.com/itzty-1207/e-books###springcloud)，
-[Tomcat](https://github.com/itzty-1207/e-books###tomcat)，
-[Zookeeper](https://github.com/itzty-1207/e-books###zookeeper)，
-[人工智能](https://github.com/itzty-1207/e-books###人工智能)，
-[**大数据类**](https://github.com/itzty-1207/e-books###大数据类)，
-[**并发编程**](https://github.com/itzty-1207/e-books###并发编程)，
-[数据挖掘](https://github.com/itzty-1207/e-books###数据挖掘)，
-[**架构设计**](https://github.com/itzty-1207/e-books###架构设计)，
-[**算法系列**](https://github.com/itzty-1207/e-books###算法系列)，
-[计算机类](https://github.com/itzty-1207/e-books###计算机类)，
-[**设计模式**](https://github.com/itzty-1207/e-books###设计模式)，
-[软件测试](https://github.com/itzty-1207/e-books###软件测试)，
-[重构优化](https://github.com/itzty-1207/e-books###重构优化)，等更多分类
+[**前端**](https://github.com/itzty-1207/e-booksf###前端)、
+[服务端](https://github.com/itzty-1207/e-booksf###服务端)、
+[数据库类](https://github.com/itzty-1207/e-booksf###数据库类)、
+[**浏览器与网络类**](https://github.com/itzty-1207/e-booksf###浏览器与网络类)、
+[人工智能类](https://github.com/itzty-1207/e-booksf###人工智能类)、
+[**数据结构类**](https://github.com/itzty-1207/e-booksf###数据结构类)、
+[算法系列](https://github.com/itzty-1207/e-booksf###算法系列)、
+[架构设计](https://github.com/itzty-1207/e-booksf###架构设计)、
+[软件测试](https://github.com/itzty-1207/e-booksf###软件测试)、
+[重构优化](https://github.com/itzty-1207/e-booksf###重构优化)、
+[**工具类如 Git**](https://github.com/itzty-1207/e-booksf###工具类)
+等分类，适合从入门到精通的各个阶段，欢迎投稿一起帮助更多的人。
 
 重要说明：书单涵盖入门与进阶的各个阶段的书籍，大家各取所需，期待大家持续关注
 
-### JavaScript
+### 前端
+
+#### Css
+
+#### JavaScript
 
 JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
 
@@ -67,9 +40,29 @@ JavaScript 高级程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链
 
 React 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://react.docschina.org/docs/getting-started.html)
 
-### 数据结构
+深入 React 技术栈.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Tg0D60ccte4JbrLo0Cw7Eg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：abx2
+
+### 服务端
+
+### 数据库类
+
+### 浏览器与网络类
+
+### 人工智能类
+
+### 数据结构类
 
 数据结构（C 语言版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1CcrzLyQF3VCykDQKYrUlqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nnog
+
+### 算法系列
+
+### 架构设计
+
+### 软件测试
+
+### 重构优化
+
+### 工具类
 
 ## 免责声明
 
