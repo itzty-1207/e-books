@@ -32,21 +32,23 @@
 
 #### JavaScript
 
-JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
+- JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
 
-JavaScript 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1ZkAO6gUkFhUzFdMbEzDYJQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bkzz
+- JavaScript 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1ZkAO6gUkFhUzFdMbEzDYJQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bkzz
 
-JavaScript 高级程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1uGbQPSCGfslLQf6yQfWtGQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：msyo
+- JavaScript 高级程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1uGbQPSCGfslLQf6yQfWtGQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：msyo
 
-React 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://react.docschina.org/docs/getting-started.html)
+- React 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://react.docschina.org/docs/getting-started.html)
 
-深入 React 技术栈.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Tg0D60ccte4JbrLo0Cw7Eg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：abx2
+- 深入 React 技术栈.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Tg0D60ccte4JbrLo0Cw7Eg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：abx2
 
 ### 服务端
 
 ### 数据库类
 
 ### 浏览器与网络类
+
+图解 HTTP.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1hHeUCmSDi4vj43ujt5k0HA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：02xn
 
 ### 人工智能类
 
