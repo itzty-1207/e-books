@@ -14,7 +14,7 @@
 [**前端**](https://github.com/itzty-1207/e-books###前端)、
 [服务端](https://github.com/itzty-1207/e-books###服务端)、
 [数据库类](https://github.com/itzty-1207/e-books###数据库类)、
-[**浏览器与网络类**](https://github.com/itzty-1207/e-books###浏览器与网络类)、
+[**浏览器与网络类**](https://github.com/itzty-1207/e-books#浏览器与网络类)、
 [人工智能类](https://github.com/itzty-1207/e-books###人工智能类)、
 [**数据结构类**](https://github.com/itzty-1207/e-books#数据结构类)、
 [算法系列](https://github.com/itzty-1207/e-books###算法系列)、
