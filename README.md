@@ -42,6 +42,16 @@
 
 - 深入 React 技术栈.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Tg0D60ccte4JbrLo0Cw7Eg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：abx2
 
+- Vue 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://cn.vuejs.org/guide/introduction.html)
+
+- Vue.js 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1mUltZYXQTjXu_ySQwg1bvg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：3kp1
+
+- 深入浅出 Vue.js.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1bNk2m1FMJ4oYC6pniogo_A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：r5e6
+
+- Vue.js 实战.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1J5ihooCdH1brcGv_MEkVOA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：fqqi
+
+- 深入浅出 Node.js.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1GZ-fPaoqpjEejh_H3u-k5w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：i1or
+
 ### 服务端
 
 ### 数据库类
