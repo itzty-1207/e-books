@@ -32,6 +32,8 @@
 
 - CSS 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1-fCcMQv4kLtBORYset2kyQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：7kiq
 
+- CSS 那些事儿.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1KzWHjqzY7VGK_AaOClWJbA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：7lhm
+
 #### JavaScript
 
 - JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
