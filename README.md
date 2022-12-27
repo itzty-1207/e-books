@@ -11,17 +11,17 @@
 ### 书籍共有 40 多个种类
 
 计算机类电子书学习，编程电子书整理下载，包括
-[**前端**](https://github.com/itzty-1207/e-booksf###前端)、
-[服务端](https://github.com/itzty-1207/e-booksf###服务端)、
-[数据库类](https://github.com/itzty-1207/e-booksf###数据库类)、
-[**浏览器与网络类**](https://github.com/itzty-1207/e-booksf###浏览器与网络类)、
-[人工智能类](https://github.com/itzty-1207/e-booksf###人工智能类)、
-[**数据结构类**](https://github.com/itzty-1207/e-booksf###数据结构类)、
-[算法系列](https://github.com/itzty-1207/e-booksf###算法系列)、
-[架构设计](https://github.com/itzty-1207/e-booksf###架构设计)、
-[软件测试](https://github.com/itzty-1207/e-booksf###软件测试)、
-[重构优化](https://github.com/itzty-1207/e-booksf###重构优化)、
-[**工具类如 Git**](https://github.com/itzty-1207/e-booksf###工具类)
+[**前端**](https://github.com/itzty-1207/e-books###前端)、
+[服务端](https://github.com/itzty-1207/e-books###服务端)、
+[数据库类](https://github.com/itzty-1207/e-books###数据库类)、
+[**浏览器与网络类**](https://github.com/itzty-1207/e-books###浏览器与网络类)、
+[人工智能类](https://github.com/itzty-1207/e-books###人工智能类)、
+[**数据结构类**](https://github.com/itzty-1207/e-books###数据结构类)、
+[算法系列](https://github.com/itzty-1207/e-books###算法系列)、
+[架构设计](https://github.com/itzty-1207/e-books###架构设计)、
+[软件测试](https://github.com/itzty-1207/e-books###软件测试)、
+[重构优化](https://github.com/itzty-1207/e-books###重构优化)、
+[**工具类如 Git**](https://github.com/itzty-1207/e-books###工具类)
 等分类，适合从入门到精通的各个阶段，欢迎投稿一起帮助更多的人。
 
 重要说明：书单涵盖入门与进阶的各个阶段的书籍，大家各取所需，期待大家持续关注
