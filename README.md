@@ -60,6 +60,8 @@
 
 图解 HTTP.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1hHeUCmSDi4vj43ujt5k0HA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：02xn
 
+HTTPS 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/18rKHk4F04oMO3P87OivR4Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：lkcz
+
 ### 人工智能类
 
 ### 数据结构类
