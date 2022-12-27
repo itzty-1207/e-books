@@ -38,6 +38,10 @@
 
 - CSS 那些事儿.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1KzWHjqzY7VGK_AaOClWJbA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：7lhm
 
+- CSS 禅意花园.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/12cywJukd3ANwuyVogjUnXg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：j0ot
+
+- 精通 CSS 高级 Web 标准解决方案.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1j35lmHGID9f5vOHEs6qS_w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：lddu
+
 #### JavaScript
 
 - JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
