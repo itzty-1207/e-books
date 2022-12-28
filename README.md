@@ -60,6 +60,8 @@
 
 - 深入 React 技术栈.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Tg0D60ccte4JbrLo0Cw7Eg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：abx2
 
+- 深入浅出 React 和 Redux.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/12H84ezDMlPPrHiQWJc5F9Q)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：i9ig
+
 - Vue 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://cn.vuejs.org/guide/introduction.html)
 
 - Vue.js 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1mUltZYXQTjXu_ySQwg1bvg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：3kp1
