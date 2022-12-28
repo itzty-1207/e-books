@@ -50,6 +50,12 @@
 
 - JavaScript 高级程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1uGbQPSCGfslLQf6yQfWtGQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：msyo
 
+- 你不知道的 JavaScript（上卷）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1l7EKx3Zl72hPpXd9yTvXzg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：lwym
+
+- 你不知道的 JavaScript（中卷）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1C0wv6wBfQD_VUSK7eo38kg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：6ki8
+
+- 你不知道的 JavaScript（下卷）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1KUSkwfPyvxD_gLv3vj8ZLg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：iaz2
+
 - React 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://react.docschina.org/docs/getting-started.html)
 
 - 深入 React 技术栈.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1Tg0D60ccte4JbrLo0Cw7Eg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：abx2
