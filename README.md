@@ -42,8 +42,8 @@
 #### JavaScript
 
 - JavaScript MDN 文档&nbsp;&nbsp;&nbsp;&nbsp;🧀[文档链接](https://developer.mozilla.org/zh-CN)
-- JavaScript 权威指南.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1ZkAO6gUkFhUzFdMbEzDYJQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bkzz
-- JavaScript 高级程序设计.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1uGbQPSCGfslLQf6yQfWtGQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：msyo
+- JavaScript 权威指南.pdf&nbsp;&nbsp;🍪【犀牛书】&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1ZkAO6gUkFhUzFdMbEzDYJQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bkzz
+- JavaScript 高级程序设计.pdf&nbsp;&nbsp;🍪【红宝书】&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1uGbQPSCGfslLQf6yQfWtGQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：msyo
 - 你不知道的 JavaScript（上卷）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1l7EKx3Zl72hPpXd9yTvXzg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：lwym
 - 你不知道的 JavaScript（中卷）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1C0wv6wBfQD_VUSK7eo38kg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：6ki8
 - 你不知道的 JavaScript（下卷）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1KUSkwfPyvxD_gLv3vj8ZLg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：iaz2
@@ -94,6 +94,9 @@
 - 数据结构与算法 JavaScript 描述.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1gax3gx6L2tlxt3txtqfKeQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bece
 
 ### 算法系列
+
+- 算法导论.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1WqTWqGQMeMiDQLJCDGzirg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：peoo
+- 图灵算法（第 4 版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1c16hPI_LK_YMw4C97mKjQw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：8s6p
 
 ### 架构设计
 
