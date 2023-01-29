@@ -91,6 +91,7 @@
 ### 数据结构类
 
 - 数据结构（C 语言版）.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1CcrzLyQF3VCykDQKYrUlqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：nnog
+- 数据结构与算法 JavaScript 描述.pdf&nbsp;&nbsp;&nbsp;&nbsp;🧀[百度云下载链接](https://pan.baidu.com/s/1gax3gx6L2tlxt3txtqfKeQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：bece
 
 ### 算法系列
 
